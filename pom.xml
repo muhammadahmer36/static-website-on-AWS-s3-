@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Bootstrap core CSS</remark></note><note><remark>Custom fonts for this template</remark></note><note><remark>Custom styles for this template</remark></note><note><remark>Navigation</remark></note><olink targetdocent="index.html">Udacity’s School of Cloud Computing</olink> Menu </para>
+  <sect1 id="navbarResponsive">
+    <orderedlist>
+      <listitem>
+        <para><olink targetdocent="index.html">Home</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="index.html">About</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="index.html">Post</olink> </para>
+      </listitem>
+      <listitem>
+        <para><olink targetdocent="index.html">Contact</olink> </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+  <para><note><remark>Page Header</remark></note>Travel Blog</para>
+  <para>Search destinations and book your hotel </para>
+  <sect1>
+    <title>
+      <note>
+        <remark>Main Content</remark>
+      </note>
+      <olink targetdocent="post.html">The Most Popular Destinations for Solo Travelers </olink>
+    </title>
+    <note>
+      <remark>Main Content</remark>
+    </note>
+    <olink targetdocent="post.html">The Most Popular Destinations for Solo Travelers </olink>
+    <sect2>
+      <title>
+        <olink targetdocent="post.html">Here are the spots where you're most likely to meet other people who are traveling alone. </olink>
+      </title>
+      <olink targetdocent="post.html">Here are the spots where you're most likely to meet other people who are traveling alone. </olink>
+      <para>Posted by <link linkend="">Jane Doe</link> on September 24, 2019</para>
+      <para/>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="post.html">This Site Connects Solo Travelers Who Are Looking for Someone to Travel and Split Expenses With. </olink>
+    </title>
+    <olink targetdocent="post.html">This Site Connects Solo Travelers Who Are Looking for Someone to Travel and Split Expenses With. </olink>
+    <para>Posted by <link linkend="">Jane Doe</link> on September 18, 2019</para>
+    <para/>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="post.html">A Guide to Kings Canyon National Park </olink>
+    </title>
+    <olink targetdocent="post.html">A Guide to Kings Canyon National Park </olink>
+    <sect2>
+      <title>
+        <olink targetdocent="post.html">Best known for its groves of Sequoia trees, Kings Canyon National Park spans a significant portion of the Sierra Nevada mountain range in California. </olink>
+      </title>
+      <olink targetdocent="post.html">Best known for its groves of Sequoia trees, Kings Canyon National Park spans a significant portion of the Sierra Nevada mountain range in California. </olink>
+      <para>Posted by <link linkend="">Jane Doe</link> on August 24, 2019</para>
+      <para/>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>
+      <olink targetdocent="post.html">This Breathtaking New Hike in Yosemite Isn't for the Faint of Heart </olink>
+    </title>
+    <olink targetdocent="post.html">This Breathtaking New Hike in Yosemite Isn't for the Faint of Heart </olink>
+    <sect2>
+      <title>
+        <olink targetdocent="post.html">Yosemite National Park may be nearing 130 years old, but that doesn’t mean there’s nothing left to explore. </olink>
+      </title>
+      <olink targetdocent="post.html">Yosemite National Park may be nearing 130 years old, but that doesn’t mean there’s nothing left to explore. </olink>
+      <para>Posted by <link linkend="">Jane Doe</link> on July 8, 2019</para>
+      <para/>
+      <para><note><remark>Pager</remark></note><link linkend="">Older Posts →</link> </para>
+      <para/>
+      <orderedlist>
+        <listitem>
+          <para>
+            <note>
+              <remark>Footer</remark>
+            </note>
+          </para>
+        </listitem>
+      </orderedlist>
+      <para>Copyright © www.mytrips.com</para>
+      <para>
+        <note>
+          <remark>Bootstrap core JavaScript</remark>
+        </note>
+        <note>
+          <remark>Custom scripts for this template</remark>
+        </note>
+      </para>
+    </sect2>
+  </sect1>
+</article>
